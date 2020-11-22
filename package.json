@@ -1,0 +1,18 @@
+{
+  "name": "ifelse",
+  "version": "1.0.0",
+  "description": "ifelsetest.js",
+  "main": "ifelse.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
